@@ -2,7 +2,7 @@
 
 This app allows you to create a list of notes, which are listed in a <select> element. Notes are stored in localStorage.
 
-## NEW FEATURES TO IMPLEMENTed.
+## NEW FEATURES TO BE IMPLEMENTed.
 
 1. Ability to delete notes (receiving a warning before committing this).
 2. Add some style.

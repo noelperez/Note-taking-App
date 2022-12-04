@@ -5,10 +5,10 @@ let list = document.querySelector('select');
 
         let state = JSON.parse(localStorage.getItem('Notes')) || {
             notes: {
-                'Shopping': 'Two grapes. Mush and more',
-                'Amiga veneno': 'tu amor es el fuego que enciende mi piel'
+                'Empty Shopping List': 'Two grapes. Mush and more'
+                
             },
-            selected: 'Shopping'
+            selected: 'Empty Shopping List'
         };
 
 
