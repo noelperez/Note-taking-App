@@ -7,3 +7,4 @@ This app allows you to create a list of notes, which are listed in a <select> el
 1. Ability to delete notes (receiving a warning before committing this).
 2. Add some style.
 3. Warning for duplicate list names.
+4. Adding weird stuff from VS Code online.
